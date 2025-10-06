@@ -18,7 +18,7 @@ class DestinationRepository {
           "https://images.pexels.com/photos/156441932/pexels-photo-156441932.jpeg",
       famousFood: "Kaiseki",
     ),
-    TouristDestination(
+    TouristDestination( 
       name: "Toronto",
       country: "Canada",
       description: "A bustling city with diverse culture and amazing skyline.",
