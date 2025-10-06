@@ -1,3 +1,4 @@
+// This is  the destination file for the app
 class Destination {
   final String name;
   final String country;
